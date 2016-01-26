@@ -1,0 +1,3 @@
+NODES_COUNT = 2
+OUTPUT_FILE_PATH = "output"
+API_KEY = "15n3KcXNmnsEUtXet8Fng0QQZ3sVYwKMeiBmleNvdapEDjkKMf691ENVdnezQiOs"

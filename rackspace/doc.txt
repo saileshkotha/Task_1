@@ -1,0 +1,3 @@
+Only works in latest stable python 2
+
+pip install pyrax

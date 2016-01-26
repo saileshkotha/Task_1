@@ -1,0 +1,6 @@
+NODES_COUNT = 2
+NODES_TYPE = "ubuntu"
+OUTPUT_FILE_PATH = "output"
+USERNAME = "robertgogula"
+PASSWORD = "a98bc51cf2ec4b7eb726646db62e69f0"
+REGION = "DFW"
